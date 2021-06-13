@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 
 -->
-![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachingvit&show_icons=true&hide_border=true)
+![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachingvit&show_icons=true&hide_border=true&count_private=true)
+
+![Sachin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sachingvit&show_icons=true&hide_border=true&count_private=true)
 
